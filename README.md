@@ -24,7 +24,6 @@ Here are some ideas to get you started:
      <br>![.NET](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=.net&logoColor=5C2D91)
 
 <br><br>
-- 🌱 I'm recently learning Python 🐍 and have just joined a Bootcamp at [DIO](https://dio.me):
-   [<img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" height="50"></img>](https://www.dio.me/bootcamp/bootcamp-squadio) ➡️ ![Python](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)
+- 🌱 I'm recently learning Python 🐍 and have just joined a Bootcampo at [DIO](https://dio.me):   [<img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" height="50"></img>](https://www.dio.me/bootcamp/bootcamp-squadio) ➡️ ![Python](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 👋
