@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   - Here I develop some custommized objects in their database with PL/SQL, HTML, CSS...
     <br>![PL](https://img.shields.io/badge/-OD1117?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=OD1117&color=0D1117) ![HTML5](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 <br>
-  - Another of my responsabilities is to check the code to understand if reported problems are programming mistakes or users bad usage of it.
+  - Another of my responsabilities is to check the code to understand if reported problems are programming mistakes or users wrong usage of it.
      <br>![.NET](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=.net&logoColor=5C2D91)
 
 <br><br>
